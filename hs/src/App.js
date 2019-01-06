@@ -17,13 +17,20 @@ class App extends Component {
         <Navbar />
         <div className="container">
           <div className="col-md-4 item">
+            <p>teste</p>
+            <p>teste</p>
+            <p>teste</p>
+            <p>teste</p>
+
           </div>
           <div className="col-md-4 item">
+            <p>teste</p>
+            <p>teste</p>
+            <p>teste</p>
+            <p>teste</p>
+
           </div>
-          <div className="col-md-4 item">
-          </div>
-          <div className="col-md-4 item">
-          </div>
+
         </div>
       </div>
     );
